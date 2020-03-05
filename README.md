@@ -1,5 +1,7 @@
 # Algo más de callbacks
 
+(Ya que estamos, algo para leer [Callback Hell](http://callbackhell.com/).)
+
 ## Operaciones con callbacks
 
 En `operacionesCallbacks.js` hay definidas tres funciones.
