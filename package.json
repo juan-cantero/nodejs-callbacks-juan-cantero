@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-callbacks",
+  "version": "1.0.0",
+  "description": "Algo más de callbacks en NodeJS",
+  "main": "operacionesCallbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concu-unahur/nodejs-callbacks.git"
+  },
+  "author": "Sebastián Pedersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concu-unahur/nodejs-callbacks/issues"
+  },
+  "homepage": "https://github.com/concu-unahur/nodejs-callbacks#readme"
+}
