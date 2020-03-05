@@ -9,7 +9,7 @@ En `operacionesCallbacks.js` hay definidas tres funciones.
 * Averiguá cuánto vale `res3` (sin hacer `console.log` ni nada).
 
 
-## Esperando que algo termine para mostrarlo o usarlo, con calbacks
+## Esperando que algo termine para mostrarlo o usarlo, con callbacks
 
 En `arreglarCallback.js` hay definida una función `suma`. Corré el código así cómo está.
 * ¿Por qué el `console.log` da `undefined`?
